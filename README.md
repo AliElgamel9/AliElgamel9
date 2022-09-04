@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm AliElgamal</h1>
-<h3 align="center">Android Software Enginner + Artifical Intelligence</h3>
+<h3 align="center">I am a passionate Android Software Engineer + Artificial Intelligence</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-elgamal-b4aa7a22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-elgamal-b4aa7a22a" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alideveloperx2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alideveloperx2" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-elgamal-b4aa7a22a) 
+[![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)](https://codeforces.com/profile/alideveloperx2) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alielgamel9&show_icons=true&theme=dracula&locale=en&layout=compact" alt="alielgamel9" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AliElgamel9&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliElgamel9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliElgamel9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alielgamel9&show_icons=true&theme=dracula&locale=en" alt="alielgamel9" /></p>
+# Quote
+<h3 align="center"> Be kind the world doesn't bear more </h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alielgamel9&" alt="alielgamel9" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=AliElgamel9&icon=0&color=0)](https://visitcount.itsvg.in)
