@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliElgamel9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Quote
-<p align="center"><q style="font-family: 'Brush Script MT'">Be kind the world doesn't bear more</q> - AliElgamal</p>
+<p align="center"><q>Be kind the world doesn't bear more</q> - AliElgamal</p>
