@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AliElgamal</h1>
 <h3 align="center">I am a passionate Android Software Engineer + Artificial Intelligence</h3>
 
-## 🌐 Socials:
-<a href=”https://linkedin.com/in/ali-elgamal-b4aa7a22a"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-<a href=”https://codeforces.com/profile/alideveloperx2"><img align=”left” src=”https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+# 🌐 Socials:
+<a href="https://linkedin.com/in/ali-elgamal-b4aa7a22a"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=icon width="21px"/></a>
+<a href="https://codeforces.com/profile/alideveloperx2"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="icon" width="21px"/></a>
 
 
 # 💻 Tech Stack:
