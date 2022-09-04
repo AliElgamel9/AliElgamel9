@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliElgamel9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Quote
-<p><q cite="https://www.imdb.com/title/tt0062622/quotes/qt0396921" align="center">Be kind the world doesn't bear more</q></p>
+<p align="center"><q cite="https://www.imdb.com/title/tt0062622/quotes/qt0396921">Be kind the world doesn't bear more</q></p>
